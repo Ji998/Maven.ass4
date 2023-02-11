@@ -54,7 +54,7 @@
           <groupId>org.codehaus.mojo</groupId>
           <artifactId>exec-maven-plugin</artifactId>
           <configuration>
-            <mainClass>is.hi.cs.helloworld.App</mainClass>
+            <mainClass>is.hi.xij1.hbv202g.ass4.App</mainClass>
           </configuration>
           <version>3.1.0</version>
         </plugin>
